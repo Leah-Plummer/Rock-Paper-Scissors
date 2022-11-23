@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMjO3quBVD85ucbyGqY4W8a3r/C3+A5A88Re4Um64PTLeFv/alxy8ZslrGdFp0cVWHFZFgo1y9OIFkl3477uMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\purpl\\workspace\\csharp\\Rock-Paper-Scissors\\RockPaperScissors\\RockPaperScissors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\purpl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
